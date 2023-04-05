@@ -5,31 +5,31 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285850539404','79609055704'] 
+global.owner = ['6285777618994','62895366770801'] 
 global.mods = [''] 
-global.prems = ['6285850539404'] 
+global.prems = ['62895366770801'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ Jarot offcঔৣ꧂'
-global.numberowner = '6285850539404','79609055704',
+global.nameowner = 'ᴹᴿ᭄ Rian offcঔৣ꧂'
+global.numberowner = '6285777618994','62895366770801',
 global.instagram = 'https://instagram.com/Jarotr_'
 global.github = 'https://github.com/Alpiii22'
-global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.ss = 'https://youtu.be/3m7tRD4RklM'
-global.sss = 'https://youtu.be/PzUH1ApMCig'
-global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.dana = '085850539404'
-global.pulsa = '085850539404'
-global.gopay = '085850539404'
+global.Youtube = 'https://youtube.com/channel/ranggabotzofc'
+global.sc = 'https://youtube.com/channel/ranggabotzofc'
+global.ss = 'https://youtube.com/channel/ranggabotzofc'
+global.sss = 'https://youtube.com/channel/ranggabotzofc'
+global.yt = 'https://youtube.com/channel/ranggabotzofc'
+global.dana = '-'
+global.pulsa = '085777618994'
+global.gopay = '085777618994'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/Jarotr_'
-global.pulsa = '085850539404'
-global.nomer = 'https://wa.me/6285850539404' //ganti jadi nomor mu
+global.gc = '-'
+global.web = 'https://youtube.com/channel/ranggabotzofc' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/hanz_ofc_03'
+global.pulsa = '085777618994'
+global.nomer = 'https://wa.me/62895366770801' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
